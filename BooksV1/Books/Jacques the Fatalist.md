@@ -1,4 +1,4 @@
-Certainly! "Jacques the Fatalist" is a novel by Denis Diderot, written in the late 18th century. It's an unconventional work that delves into philosophical ideas and themes, most notably fatalism.
+"Jacques the Fatalist" is a novel by Denis Diderot, written in the late 18th century. It's an unconventional work that delves into philosophical ideas and themes, most notably fatalism.
 
 ### Main Plot and Characters
 

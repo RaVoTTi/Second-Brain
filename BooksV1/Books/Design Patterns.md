@@ -1,4 +1,4 @@
-Certainly! "Design Patterns" is a concept in software engineering that typically refers to reusable solutions to common problems encountered in software design. Here's an overview of the concept, divided into relevant sections, followed by a concise summary.
+"Design Patterns" is a concept in software engineering that typically refers to reusable solutions to common problems encountered in software design. Here's an overview of the concept, divided into relevant sections, followed by a concise summary.
 
 ### Introduction
 Design patterns are general reusable solutions to common problems faced during software development. They're not blueprints but guidelines that can be adapted to suit particular needs. Design patterns are about design and interaction of objects, rather than implementation.

@@ -1,4 +1,4 @@
-Certainly! Here's an extended summary of "The Divine Comedy" by Dante Alighieri, one of the most celebrated works in world literature. I'll break down the summary into three main parts, corresponding to the three canticas: Inferno (Hell), Purgatorio (Purgatory), and Paradiso (Paradise).
+Here's an extended summary of "The Divine Comedy" by Dante Alighieri, one of the most celebrated works in world literature. I'll break down the summary into three main parts, corresponding to the three canticas: Inferno (Hell), Purgatorio (Purgatory), and Paradiso (Paradise).
 
 ### Inferno (Hell)
 **Setting and Main Characters:** 

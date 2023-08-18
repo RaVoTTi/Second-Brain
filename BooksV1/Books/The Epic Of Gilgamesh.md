@@ -1,4 +1,4 @@
-Certainly! The "Epic of Gilgamesh" is a Mesopotamian poem that is among the earliest known works of literary writing. Here's a detailed overview followed by a concise summary:
+The "Epic of Gilgamesh" is a Mesopotamian poem that is among the earliest known works of literary writing. Here's a detailed overview followed by a concise summary:
 
 ### Detailed Overview
 

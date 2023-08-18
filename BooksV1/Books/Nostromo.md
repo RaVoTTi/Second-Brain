@@ -1,4 +1,4 @@
-Certainly! Here's a detailed summary of "Nostromo" by Joseph Conrad, followed by a concise summary.
+Here's a detailed summary of "Nostromo" by Joseph Conrad, followed by a concise summary.
 
 ### Detailed Summary
 

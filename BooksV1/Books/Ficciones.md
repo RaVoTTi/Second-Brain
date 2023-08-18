@@ -1,4 +1,4 @@
-Certainly! "Ficciones" is a collection of short stories written by Argentine author Jorge Luis Borges. Published in 1944, this book is a classic in modern literature and has been translated into multiple languages. Here's a comprehensive breakdown of the work, along with a concise summary at the end.
+"Ficciones" is a collection of short stories written by Argentine author Jorge Luis Borges. Published in 1944, this book is a classic in modern literature and has been translated into multiple languages. Here's a comprehensive breakdown of the work, along with a concise summary at the end.
 
 ### Structure and Themes
 

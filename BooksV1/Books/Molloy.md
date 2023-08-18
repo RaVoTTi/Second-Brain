@@ -1,4 +1,4 @@
-Certainly! "Molloy" is a novel written by Samuel Beckett, first published in French in 1951 and then in English in 1955. Here's a detailed summary, followed by a concise version.
+"Molloy" is a novel written by Samuel Beckett, first published in French in 1951 and then in English in 1955. Here's a detailed summary, followed by a concise version.
 
 ### Detailed Summary
 

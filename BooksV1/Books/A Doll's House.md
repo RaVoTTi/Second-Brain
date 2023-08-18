@@ -1,4 +1,4 @@
-Certainly! Here's a detailed summary of "A Doll's House" by Henrik Ibsen, followed by a concise summary for quick reference.
+Here's a detailed summary of "A Doll's House" by Henrik Ibsen, followed by a concise summary for quick reference.
 ### Detailed Summary
 **Act 1:**
 The play begins in the Helmer's house, where Nora, the main character, is preparing for Christmas with her husband Torvald. Torvald scolds Nora for her spending, treating her like a child. A friend of Nora, Mrs. Linde, arrives and reveals that she is widowed and seeking work. Nora then admits to secretly borrowing money to pay for Torvald's recovery from illness, forging her father's signature to secure the loan.

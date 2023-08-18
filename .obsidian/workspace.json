@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "6cf3eb88eb2dd008",
+        "id": "01c9cc5a3ede0897",
         "type": "tabs",
         "children": [
           {
-            "id": "43f1af515a16bc54",
+            "id": "69f10d20f8a8129f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Evaluations/Desing Patterns.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c6180116063ea93c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Books/A Doll's House.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d3afe04783189eb1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Evaluations/Stories.md",
+                "file": "BooksV1/Evaluations/A Doll's House.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/A Doll's House.md",
+                "file": "BooksV1/Evaluations/A Doll's House.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Books/A Doll's House.md",
+                "file": "BooksV1/Evaluations/A Doll's House.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/A Doll's House.md"
+                "file": "BooksV1/Evaluations/A Doll's House.md"
               }
             }
           }
@@ -171,38 +146,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c6180116063ea93c",
+  "active": "69f10d20f8a8129f",
   "lastOpenFiles": [
+    "Untitled 1.md",
+    "Evaluations",
+    "Books",
+    "BooksV1",
+    "BooksV1/Evaluations/A Doll's House.md",
+    "BooksV1/Books/addContent.sh",
+    "BooksV1/Books/Clean Code.md",
+    "BooksV1/Books/Absalom, Absalom!.md",
+    "BooksV1/Books/A Doll's House.md",
+    "BooksV1/Books/Things Fall Apart.md",
+    "BooksV1/Books/The Stranger.md",
+    "BooksV1/Books/The Idiot.md",
+    "BooksV1/Books/The Divine Comedy.md",
+    "BooksV1/Books/The Decameron.md",
+    "BooksV1/Books/Fairy Tales.md",
+    "Books/sed9l51Ab",
+    "Books/sedQ0mYXt",
+    "Books/sedRswgl9",
+    "BooksV1/Books/Ficciones.md",
+    "BooksV1/Books/Great Expectations.md",
+    "BooksV1/Books/Introduction to Algorithms.md",
+    "BooksV1/Books/Jacques the Fatalist.md",
+    "BooksV1/Books/Njal's Saga.md",
+    "BooksV1/Books/Molloy.md",
+    "BooksV1/Books/Don Quixote of La Mancha.md",
+    "BooksV1/Books/Crime And Punishment.md",
+    "Books/sediH60Po",
+    "Books/sedKXC8Sx",
+    "Books/sedzpQWc6",
+    "BooksV1/Evaluations/Desing Patterns.md",
     "README.md",
     "Docker.md",
     "ChatGPT/Chat Evaluator.md",
     "Untitled.md",
-    "ChatGPT",
-    "Evaluations/Desing Patterns.md",
-    "Books/Design Patterns.md",
-    "Evaluations/A Doll's House.md",
-    "Books/A Doll's House.md",
-    "Evaluations/Absalom, Absalom!.md",
-    "Books/Absalom, Absalom!.md",
-    "Evaluations/Crime And Punishment.md",
-    "Books/Crime And Punishment.md",
-    "Evaluations/Jacques The Fatalist.md",
-    "Books/Jacques the Fatalist.md",
-    "Evaluations/Great Expectations.md",
-    "Books/Great Expectations.md",
-    "Books/The Idiot.md",
-    "Evaluations/Stories.md",
-    "Books/Stories.md",
-    "Evaluations/Nostromo.md",
-    "Books/Pride And Prejuice.md",
-    "Books/Nostromo.md",
-    "Evaluations/Clean Code.md",
-    "Books/The Book of Job.md",
-    "Evaluations/The Canterbury Tales.md",
-    "Books/The Canterbury Tales.md",
-    "Evaluations",
-    "Linux",
-    "Books",
+    "BooksV1/Books/Design Patterns.md",
     "Untitled.canvas"
   ]
 }

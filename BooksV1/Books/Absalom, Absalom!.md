@@ -1,4 +1,4 @@
-Certainly! "Absalom, Absalom!" is a novel written by William Faulkner, published in 1936. Here's a comprehensive summary followed by a concise one at the end.
+"Absalom, Absalom!" is a novel written by William Faulkner, published in 1936. Here's a comprehensive summary followed by a concise one at the end.
 
 ### Comprehensive Summary
 

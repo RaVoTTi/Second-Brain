@@ -1,4 +1,4 @@
-Certainly! Here's a detailed summary of "The Decameron," written by Giovanni Boccaccio, followed by a concise summary for quick reference.
+Here's a detailed summary of "The Decameron," written by Giovanni Boccaccio, followed by a concise summary for quick reference.
 
 ### Detailed Summary
 

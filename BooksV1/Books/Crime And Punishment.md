@@ -1,4 +1,4 @@
-Certainly! Here's a detailed summary of "Crime and Punishment" by Fyodor Dostoevsky, followed by a concise summary.
+Here's a detailed summary of "Crime and Punishment" by Fyodor Dostoevsky, followed by a concise summary.
 
 ### Detailed Summary
 

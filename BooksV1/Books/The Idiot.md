@@ -1,4 +1,4 @@
-Certainly! Below you'll find a detailed summary of "The Idiot" by Fyodor Dostoevsky, followed by a concise summary.
+Below you'll find a detailed summary of "The Idiot" by Fyodor Dostoevsky, followed by a concise summary.
 
 ### Detailed Summary
 

@@ -1,4 +1,4 @@
-Certainly! Here's a detailed summary of the Book of Job, a part of the Hebrew Bible, with a concise version at the end.
+Here's a detailed summary of the Book of Job, a part of the Hebrew Bible, with a concise version at the end.
 
 ### Introduction
 The Book of Job is one of the poetic books in the Old Testament. It addresses profound questions about suffering, human integrity, and the relationship between humanity and the divine. Its protagonist, Job, is a wealthy and pious man who is subjected to a series of calamities to test his faith.

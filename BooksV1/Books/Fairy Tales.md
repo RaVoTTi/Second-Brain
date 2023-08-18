@@ -1,4 +1,4 @@
-Sure! Fairy Tales are a genre of literature that includes stories filled with magical elements, fantastical creatures, and often moral lessons. They have been passed down through generations and vary widely across cultures. Below is a detailed look at Fairy Tales, followed by a concise summary.
+Fairy Tales are a genre of literature that includes stories filled with magical elements, fantastical creatures, and often moral lessons. They have been passed down through generations and vary widely across cultures. Below is a detailed look at Fairy Tales, followed by a concise summary.
 
 ### Characteristics
 1. **Magical Elements**: Fairy Tales often include magic or supernatural phenomena as a key plot element.

@@ -1,4 +1,4 @@
-Certainly! "Introduction to Algorithms" is a widely-recognized textbook in computer science, written by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein. This comprehensive text provides a deep insight into modern algorithm design and analysis. Here's an extended and detailed summary, organized by sections:
+"Introduction to Algorithms" is a widely-recognized textbook in computer science, written by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein. This comprehensive text provides a deep insight into modern algorithm design and analysis. Here's an extended and detailed summary, organized by sections:
 
 ### Part I: Foundations
 

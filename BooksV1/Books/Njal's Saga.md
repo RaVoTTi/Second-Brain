@@ -1,4 +1,4 @@
-Certainly! Njál's Saga, or "Njáls saga," is one of the great medieval Icelandic sagas, written in the 13th century but set in the period from the late 9th century to the early 11th century. Here's a detailed overview along with a concise summary at the end.
+Njál's Saga, or "Njáls saga," is one of the great medieval Icelandic sagas, written in the 13th century but set in the period from the late 9th century to the early 11th century. Here's a detailed overview along with a concise summary at the end.
 
 ### Njál's Saga Overview
 

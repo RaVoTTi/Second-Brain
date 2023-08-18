@@ -1,4 +1,4 @@
-Sure! Here's a comprehensive summary of "The Stranger" by Albert Camus, followed by a concise summary for quick reference.
+Here's a comprehensive summary of "The Stranger" by Albert Camus, followed by a concise summary for quick reference.
 
 **Comprehensive Summary:**
 

@@ -1,4 +1,4 @@
-Certainly! "The Canterbury Tales" by Geoffrey Chaucer is a significant work of English literature, written in the late 14th century. Here's a detailed summary followed by a concise version for quick reference.
+"The Canterbury Tales" by Geoffrey Chaucer is a significant work of English literature, written in the late 14th century. Here's a detailed summary followed by a concise version for quick reference.
 
 ### Detailed Summary
 

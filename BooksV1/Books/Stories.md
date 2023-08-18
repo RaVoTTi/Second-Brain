@@ -1,4 +1,4 @@
-Certainly! Here's a detailed overview of "Stories". Anton Chekhov was a prolific Russian writer known for his short stories. Here's a summary and some insights into his works, followed by a concise summary at the end:
+Here's a detailed overview of "Stories". Anton Chekhov was a prolific Russian writer known for his short stories. Here's a summary and some insights into his works, followed by a concise summary at the end:
 
 ### Detailed Overview
 

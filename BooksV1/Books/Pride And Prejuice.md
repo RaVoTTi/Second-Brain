@@ -1,4 +1,4 @@
-Certainly! Here's a detailed overview of "Pride and Prejudice" by Jane Austen, along with a concise summary at the end.
+Here's a detailed overview of "Pride and Prejudice" by Jane Austen, along with a concise summary at the end.
 
 ### Detailed Overview
 

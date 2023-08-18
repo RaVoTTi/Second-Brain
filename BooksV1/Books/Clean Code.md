@@ -1,4 +1,4 @@
-Certainly! Here's a detailed summary of "Clean Code: A Handbook of Agile Software Craftsmanship" by Robert C. Martin. This book is a comprehensive guide aimed at improving the writing of code, making it cleaner and more efficient.
+Here's a detailed summary of "Clean Code: A Handbook of Agile Software Craftsmanship" by Robert C. Martin. This book is a comprehensive guide aimed at improving the writing of code, making it cleaner and more efficient.
 
 ### 1. Introduction
 

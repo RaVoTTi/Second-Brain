@@ -1,4 +1,4 @@
-Certainly! "Great Expectations" is a novel by Charles Dickens, first published in 1860-1861. Here's a detailed summary followed by a concise version:
+"Great Expectations" is a novel by Charles Dickens, first published in 1860-1861. Here's a detailed summary followed by a concise version:
 
 ### Detailed Summary
 
