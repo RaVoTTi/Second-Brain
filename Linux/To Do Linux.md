@@ -1,0 +1,1 @@
+cifrar el sistema porque grub tiene una vulnerabilidad si no lo ciframos

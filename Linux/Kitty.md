@@ -1,0 +1,1 @@
+https://sw.kovidgoyal.net/kitty/overview/#other-keyboard-shortcuts

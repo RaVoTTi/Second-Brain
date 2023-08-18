@@ -1,0 +1,1 @@
+https://bencane.com/2012/10/22/cheat-sheet-cutting-text-with-cut/
