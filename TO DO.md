@@ -1,0 +1,32 @@
+- [ ] Cron para cashback recurrent, chequear fondos
+ - [ ] Buen chequeo de teléfono celular
+ - [ ] Mejorar ui en el celular
+ - [ ] Crear admin page
+ - [ ] Hacerle pentesting
+ - [ ] Validar mejor la wallet
+ - [ ] Y hacer un smart contract con todas las transacciones
+ - [ ] Pasar la base de datos al mismo vps
+ - [ ] Arreglar evaluaciones
+ - [ ] bloquear ip que hace muchas peticiones
+ - [ ] tutorial con screenshots
+ - [ ] Respuesta después de la compra
+ - [ ] bloquear botón cuando vas a comprar
+ - [ ] contents un markdown
+ - [ ] arreglar login no se ve crear cuenta
+ - [ ] muy orders en el celular
+
+ ### Hecho
+ notificación cuando añadís al add to cart
+ - [x] buy now to stripe
+ - [x] contador para enviar email cada 60s
+ - [x] crear servidor de email o contratar uno
+  - [x] Template para cuando peticiona y no hay nada
+ - [x] Logo de carga para cuando trae la imagen en el bookview
+ - [x] El doble click cuando vas para stripe
+ - [x] Time remaining order
+ - [x] remember me
+ - [x] Redirect from signup to login
+ - [x] upgrade ui email
+ - [x] available pending cashback 
+ - [x] Mejorar la búsqueda
+ - [x] Chequear bien las evaluaciones

@@ -4,16 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "01c9cc5a3ede0897",
+        "id": "40e2f799bdc423e2",
         "type": "tabs",
         "children": [
           {
-            "id": "69f10d20f8a8129f",
+            "id": "ef1fca0235f2a7db",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BooksV1/Evaluations/A Doll's House.md",
+                "file": "TO DO.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e80b1d030702d712",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ventas.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BooksV1/Evaluations/A Doll's House.md",
+                "file": "TO DO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BooksV1/Evaluations/A Doll's House.md",
+                "file": "TO DO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BooksV1/Evaluations/A Doll's House.md"
+                "file": "TO DO.md"
               }
             }
           }
@@ -146,13 +158,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "69f10d20f8a8129f",
+  "active": "ef1fca0235f2a7db",
   "lastOpenFiles": [
-    "Untitled 1.md",
+    "Docker.md",
+    "Ventas.md",
+    "TO DO.md",
+    "BooksV1/Evaluations/A Doll's House.md",
     "Evaluations",
     "Books",
     "BooksV1",
-    "BooksV1/Evaluations/A Doll's House.md",
     "BooksV1/Books/addContent.sh",
     "BooksV1/Books/Clean Code.md",
     "BooksV1/Books/Absalom, Absalom!.md",
@@ -179,9 +193,7 @@
     "Books/sedzpQWc6",
     "BooksV1/Evaluations/Desing Patterns.md",
     "README.md",
-    "Docker.md",
     "ChatGPT/Chat Evaluator.md",
-    "Untitled.md",
     "BooksV1/Books/Design Patterns.md",
     "Untitled.canvas"
   ]
