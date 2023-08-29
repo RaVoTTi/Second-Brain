@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "abe1c7bbb141d061",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Carta.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "e80b1d030702d712",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TO DO.md",
+                "file": "Carta.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TO DO.md",
+                "file": "Carta.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TO DO.md"
+                "file": "Carta.md"
               }
             }
           }
@@ -158,11 +171,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ef1fca0235f2a7db",
+  "active": "abe1c7bbb141d061",
   "lastOpenFiles": [
+    "TO DO.md",
+    "Carta.md",
     "Docker.md",
     "Ventas.md",
-    "TO DO.md",
     "BooksV1/Evaluations/A Doll's House.md",
     "Evaluations",
     "Books",
