@@ -1,0 +1,2 @@
+^ = arranca
+$ = termina

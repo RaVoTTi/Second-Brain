@@ -1,0 +1,2 @@
+xrandr
+xrandr --auto

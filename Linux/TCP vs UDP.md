@@ -1,0 +1,1 @@
+TCP se fija que los paquetes vayan ordenados y no se pierdan

@@ -23,10 +23,15 @@ Docker build crea una imagen usando el ficjero Dockerfile
 ### RUN
 ### WORKDIR
 ### COPY
+### ENV
+
+### EXPOSE
 ### CMD
 ### ARG
 
-
+docker run -v /dir_anfi/:/dir_cont/ llevamos el contenido del directorio origen del anfitrion al contenedor, como montaje en linux
+docker run -v /dir_cont/ se crea un volumen que usaran en el directorio /dir_cont/
+docker run -v nombre:/dir_cont/ igual que el anterior pero con nombre
 
 
 

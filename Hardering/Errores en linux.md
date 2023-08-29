@@ -1,0 +1,1 @@
+mirar los ficheros que modificamos y ver los logs en /var/log/syslog o en /var/log/auth.log

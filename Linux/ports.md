@@ -1,0 +1,1 @@
+check in echo >/dev/tcp/localhost/port
